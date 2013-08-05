@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sudocode-exception/sudocode-exception.iml" filepath="$PROJECT_DIR$/sudocode-exception/sudocode-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudocode-ftp/sudocode-ftp.iml" filepath="$PROJECT_DIR$/sudocode-ftp/sudocode-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudocode-util/sudocode-util.iml" filepath="$PROJECT_DIR$/sudocode-util/sudocode-util.iml" />
+    </modules>
+  </component>
+</project>
+
