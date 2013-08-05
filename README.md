@@ -1,4 +1,4 @@
 ftp-service
 ===========
 
-A network service that caters basic transfer of file through JSCH API.
+A network service that caters basic transfer of file through JSCH API and XML configuration support.
