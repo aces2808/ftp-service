@@ -28,5 +28,5 @@ public interface SudocodeFtpService {
      *
      * @param t Domain object containing the FTP details.
      */
-    <T> List<T> getFiles(T t) throws SudocodeNetworkException;
+    <T extends SudocodeFtpDomain> List<T> getFiles(T t) throws SudocodeNetworkException;
 }
